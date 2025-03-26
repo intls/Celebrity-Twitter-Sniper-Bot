@@ -24,6 +24,7 @@ Prefer a user-friendly interface? Use the GUI. Feel confident with commands? Swi
 Detailed instructions are available for all skill levels on Windows, macOS, and Linux.
 
  Learn more (EN): https://t.me/sigmatoolz
+
  Learn more (RU): https://t.me/sigmatoolzru
 
 What’s next?
