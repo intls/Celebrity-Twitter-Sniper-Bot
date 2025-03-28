@@ -1,4 +1,4 @@
-# Twitter Sniper Bot
+# Solana Twitter Token Sniper Bot
 
 🚀 **INSTANT Solana Token Sniping from Twitter Posts** *(Auto-OCR, GUI/CLI, <1s Buys)*  
 
