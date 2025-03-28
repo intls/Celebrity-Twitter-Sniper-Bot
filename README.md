@@ -1,30 +1,44 @@
-# Twitter-Sniper-Bot
+# Twitter Sniper Bot
 
-🚀 Twitter Sniper Bot – INSTANT Solana Token Buys from Twitter Posts (Auto-OCR, GUI/CLI, Fastest Launches!)
- 
-After the huge FOMO I got when $TRUMP and $MILANIA pumped without us, We built a Twitter Sniper Bot. It scans Twitter in real-time, auto-detects new token contracts (even in images!), and instantly buys them on Solana before the crowd.
+🚀 **INSTANT Solana Token Sniping from Twitter Posts** *(Auto-OCR, GUI/CLI, <1s Buys)*  
 
-✅ Why this is the FASTEST sniper tool?
+**Never miss the next $TRUMP, $MILANIA or Mr. Beast pump again!**  
 
-✔ Real-time Twitter monitoring – Track influencers, devs, or any account.
+After watching **$TRUMP surge 1000%+** when Trump tweeted a contract *hidden in an image* - while we scrambled to copy it manually - we built the ultimate solution:  
 
-✔ OCR Scanner – Extracts contract addresses even from screenshots.
+**Twitter Sniper Bot** scans Twitter in *real-time*, **automatically detects token contracts** (even in images via OCR), and executes **lightning-fast buys on Solana** before the crowd reacts.  
 
-✔ <1 Second Buys – Lightning-fast Solana transactions (SOL/USDC).
+Now when celebrities like **Trump, Milania, Tate or Mr. Beast** drop new meme coins, you'll be *first in line* - **not left watching from the sidelines**.  
 
-✔ 2 Modes: GUI (easy) & CLI (pro) – Perfect for beginners and degens.
+## 🔥 Why This is the FASTEST Sniper Tool  
 
-✔ Windows/macOS/Linux – Simple setup, works instantly.
+✅ **Real-time Twitter monitoring** - Track any account (devs, influencers, celebrities)  
+✅ **Advanced OCR Scanner** - Extracts contracts **from images/screenshots** automatically  
+✅ **<1 Second Purchases** - Blazing-fast Solana transactions (SOL/USDC)  
+✅ **Dual Interface** - *Simple GUI for beginners* / *Powerful CLI for pros*  
+✅ **Cross-Platform** - Works flawlessly on *Windows, macOS* and *Linux*  
 
-📈 Stop getting rekt by slow bots – snipe EARLY and ride the pump!
+## 🚀 Get Started Now  
+**Full setup guide:** [https://t.me/TwitterXSniperBot](https://t.me/TwitterXSniperBot)  
+- *English*: [@sigmatoolz](https://t.me/sigmatoolz)  
+- *Русский*: [@sigmatoolzru](https://t.me/sigmatoolzru)  
 
-Full setup guide: https://t.me/TwitterXSniperBot
+## 🔮 What's Next?  
+We're constantly enhancing Twitter Sniper with:  
+- **Multi-chain support** *(coming soon)*  
+- **AI-powered analytics**  
+- **Advanced trading features**  
+All future updates will remain **free** for our users.  
 
-Learn more (EN): https://t.me/sigmatoolz
-Learn more (RU): https://t.me/sigmatoolzru
+💰 **Pricing Advantage for Early Users:**  
+- **All current buyers** get **lifetime free updates** (save $100s)  
+- *Future versions* will cost **2-3x more** as features expand  
+- **Price increases automatically** with each major update  
 
-What’s next?
+*"The earlier you join, the more you save"* — this is your chance to lock in **maximum value** before:  
+1️⃣ Next price hike (after 500 users)  
+2️⃣ V2 release with premium features  
 
-We continuously enhance Twitter Sniper, planning to add support for more networks, advanced AI features, and additional crypto trading tools. Our goal is to make this product a truly unique and limitless instrument for analyzing Twitter and engaging with crypto. All future updates are free for our users.
+*In the rapidly evolving crypto world,* **nothing matches Twitter Sniper's speed and capabilities** - and we don't expect that to change anytime soon.  
 
-While the crypto market is always evolving, we haven’t encountered anything quite like Twitter Sniper so far—and it doesn’t look like we will anytime soon.
+**Stop getting rekt by slow bots - snipe early and ride the pump!**  
