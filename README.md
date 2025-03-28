@@ -5,10 +5,15 @@
 After the huge FOMO I got when $TRUMP and $MILANIA pumped without us, We built a Twitter Sniper Bot. It scans Twitter in real-time, auto-detects new token contracts (even in images!), and instantly buys them on Solana before the crowd.
 
 ✅ Why this is the FASTEST sniper tool?
+
 ✔ Real-time Twitter monitoring – Track influencers, devs, or any account.
+
 ✔ OCR Scanner – Extracts contract addresses even from screenshots.
+
 ✔ <1 Second Buys – Lightning-fast Solana transactions (SOL/USDC).
+
 ✔ 2 Modes: GUI (easy) & CLI (pro) – Perfect for beginners and degens.
+
 ✔ Windows/macOS/Linux – Simple setup, works instantly.
 
 📈 Stop getting rekt by slow bots – snipe EARLY and ride the pump!
