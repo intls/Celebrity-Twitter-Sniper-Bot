@@ -8,7 +8,7 @@ After watching **$TRUMP surge 1000%+** when Trump tweeted a contract *hidden in 
 
 **Twitter Sniper Bot** scans Twitter in *real-time*, **automatically detects token contracts** (even in images via OCR), and executes **lightning-fast buys on Solana** before the crowd reacts.  
 
-Now when celebrities like **Mr.Beast, Kanye West and etc** drop new meme coins, you'll be *first in line* - **not left watching from the sidelines**.  
+Now when celebrities like **Mr.Beast, Kanye West and etc** drop new meme coins $MRBEAST and $KANYE, you'll be *first in line* - **not left watching from the sidelines**.  
 
 ## 🔥 Why This is the FASTEST Sniper Tool  
 
