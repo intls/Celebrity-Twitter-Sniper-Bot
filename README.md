@@ -2,13 +2,13 @@
 
 🚀 **INSTANT Solana Token Sniping from Twitter Posts** *(Auto-OCR, GUI/CLI, <1s Buys)*  
 
-**Never miss the next $TRUMP, $MILANIA or Mr. Beast pump again!**  
+**Never miss the next memes like $TRUMP, $MILANIA ot $TATE pump again!**  
 
 After watching **$TRUMP surge 1000%+** when Trump tweeted a contract *hidden in an image* - while we scrambled to copy it manually - we built the ultimate solution:  
 
 **Twitter Sniper Bot** scans Twitter in *real-time*, **automatically detects token contracts** (even in images via OCR), and executes **lightning-fast buys on Solana** before the crowd reacts.  
 
-Now when celebrities like **Trump, Milania, Tate or Mr. Beast** drop new meme coins, you'll be *first in line* - **not left watching from the sidelines**.  
+Now when celebrities like **Mr.Beast, Kanye West and etc** drop new meme coins, you'll be *first in line* - **not left watching from the sidelines**.  
 
 ## 🔥 Why This is the FASTEST Sniper Tool  
 
