@@ -33,7 +33,7 @@ We're constantly enhancing Twitter Sniper with:
 All future updates will remain **free** for our users.  
 
 💰 **Pricing Advantage for Early Users:**  
-- **All current buyers** get **lifetime free updates** (save $100s)  
+- **All current buyers** get **lifetime free updates** (forever)  
 - *Future versions* will cost **2-3x more** as features expand  
 - **Price increases automatically** with each major update  
 
@@ -44,3 +44,6 @@ All future updates will remain **free** for our users.
 *In the rapidly evolving crypto world,* **nothing matches Twitter Sniper's speed and capabilities** - and we don't expect that to change anytime soon.  
 
 **Stop getting rekt by slow bots - snipe early and ride the pump!**  
+
+**🌟 Like this tool? Give it a star!**  
+*More stars = faster updates (multi-chain support next!)*  
