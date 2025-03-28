@@ -1,31 +1,22 @@
 # Twitter-Sniper-Bot
-Automated crypto sniping tool that detects token addresses from tweets on X.com and purchases tokens within seconds.
 
-Twitter Sniper is a powerful tool that analyzes Twitter in real time, automatically detecting and extracting new token contract addresses, and instantly purchasing them on the Solana network.
+🚀 Twitter Sniper Bot – INSTANT Solana Token Buys from Twitter Posts (Auto-OCR, GUI/CLI, Fastest Launches!)
+ 
+After the huge FOMO I got when $TRUMP and $MILANIA pumped without us, We built a Twitter Sniper Bot. It scans Twitter in real-time, auto-detects new token contracts (even in images!), and instantly buys them on Solana before the crowd.
 
-How does it work?
+✅ Why this is the FASTEST sniper tool?
+✔ Real-time Twitter monitoring – Track influencers, devs, or any account.
+✔ OCR Scanner – Extracts contract addresses even from screenshots.
+✔ <1 Second Buys – Lightning-fast Solana transactions (SOL/USDC).
+✔ 2 Modes: GUI (easy) & CLI (pro) – Perfect for beginners and degens.
+✔ Windows/macOS/Linux – Simple setup, works instantly.
 
-🟢 Monitoring Twitter
-The bot tracks your chosen accounts and swiftly responds to any new tokens that appear.
+📈 Stop getting rekt by slow bots – snipe EARLY and ride the pump!
 
-🟢 Extracting Contracts
-Twitter Sniper can even find addresses hidden in images, thanks to its advanced OCR scanner.
+Full setup guide: https://t.me/TwitterXSniperBot
 
-🟢 Lightning-Fast Purchases
-As soon as a new token is detected, the bot executes a transaction within seconds, ensuring you’re among the first buyers.
-
-🟢 Flexible Payment Options
-Buy tokens with SOL or USDC, choosing whichever suits your strategy and helps avoid unnecessary volatility.
-
-🟢 Two Modes
-Prefer a user-friendly interface? Use the GUI. Feel confident with commands? Switch to the CLI.
-
-🟢 Easy Setup
-Detailed instructions are available for all skill levels on Windows, macOS, and Linux.
-
- Learn more (EN): https://t.me/sigmatoolz
-
- Learn more (RU): https://t.me/sigmatoolzru
+Learn more (EN): https://t.me/sigmatoolz
+Learn more (RU): https://t.me/sigmatoolzru
 
 What’s next?
 
