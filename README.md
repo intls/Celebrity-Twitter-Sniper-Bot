@@ -21,7 +21,7 @@ Now when celebrities like **Mr.Beast, Kanye West and etc** drop new meme coins $
 ![Снимок экрана 2025-03-27 в 01 10 00 — копия](https://github.com/user-attachments/assets/9efeb547-db88-45c5-a6cf-cf75a92243c3)
 
 ## 🚀 Get Started Now  
-[**Full setup guide:**](https://www.youtube.com/SIGMATOOLS)
+**Full setup guide:** [YouTube]([https://www.youtube.com/SIGMATOOLS](https://www.youtube.com/watch?v=puz0riQhdgY))
 **Telegram Bot:** [TwitterXSniperBot](https://t.me/TwitterXSniperBot)  
 - *English*: [@sigmatoolz](https://t.me/sigmatoolz)  
 - *Русский*: [@sigmatoolzru](https://t.me/sigmatoolzru)  
